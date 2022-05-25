@@ -13,3 +13,5 @@ var missingNumber = function (nums) {
   }
 };
 console.log(missingNumber([3, 0, 1]));
+
+//time complexity: O(n) ; space complexity: 
